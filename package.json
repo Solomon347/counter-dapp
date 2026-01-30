@@ -14,7 +14,7 @@
     "@starknet-react/chains": "^3.0.2",
     "@starknet-react/core": "^3.5.0",
     "starknet": "^6.17.0",
-    "get-starknet-core": "^4.0.0"
+    "@starknet-io/get-starknet-core": "^4.0.3"
   },
   "devDependencies": {
     "@types/react": "^18.3.12",
