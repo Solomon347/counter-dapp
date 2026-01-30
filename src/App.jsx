@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
-import { useAccount, useConnect, useDisconnect, useContract, useContractRead, useContractWrite, useBalance } from '@starknet-react/core';
-import { Provider, Contract, RpcProvider } from 'starknet';
+import { useAccount, useConnect, useDisconnect, useContractRead, useContractWrite, useBalance } from '@starknet-react/core';
+import { Contract, RpcProvider } from 'starknet';
 
 // Contract ABI
 const CONTRACT_ABI = [
